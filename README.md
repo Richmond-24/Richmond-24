@@ -41,7 +41,6 @@ My work sits at the intersection of:
 ### 🛡️ Mobile Money Fraud Detection
 End-to-end ML system for detecting potentially fraudulent mobile-money transactions, with model evaluation, prediction pipelines, FastAPI inference and deployment.
 
-🔗 [View Project](https://github.com/Richmond-24/mobile-money-fraud-detection)
 
 ### 🤖 RIRI.ai
 Self-hosted AI voice assistant exploring **AI agents, voice interaction, tool calling, MCP and intelligent automation.**
@@ -51,12 +50,10 @@ Self-hosted AI voice assistant exploring **AI agents, voice interaction, tool ca
 ### 📄 Resume Analyzer
 AI-powered resume analysis platform combining **NLP, machine learning, APIs and full-stack development.**
 
-🔗 [View Project](https://github.com/Richmond-24/resume-analyzer)
 
 ### 🍔 ChopFresh
 Full-stack food commerce platform connecting **customers, restaurants, riders and payments** through one system.
 
-🔗 Project repository coming soon.
 
 ---
 
