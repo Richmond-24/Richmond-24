@@ -1,162 +1,281 @@
-# 👋 Hi, I'm Richmond Afoblikame — `@Richmond-24`
+# 👋 Hi, I'm Richmond Afoblikame
 
-### 🧠 Data Science & Machine Learning Engineer | AI Engineer | Data-Driven Problem Solver
+### 🧠 AI Engineer • Machine Learning Engineer • Data Scientist • Builder
 
----
+I build **AI-powered products and machine learning systems that turn real-world problems into working software.**
 
-## 👨‍💻 About Me
+My work spans the complete journey from **data → models → APIs → applications → deployment**, with a focus on building solutions that are practical, measurable, and usable.
 
-I am a **Data Science and Machine Learning Engineer** focused on transforming data into intelligent, practical solutions.
-
-My work sits at the intersection of **data science, machine learning, artificial intelligence, and software engineering**. I enjoy taking problems from raw data and exploration through **feature engineering, model development, evaluation, and deployment**.
-
-I am particularly interested in building intelligent systems that address real-world challenges and creating technology that can move beyond experimentation into **useful, reliable products**.
-
-> **Turning data into intelligence. Turning intelligence into impact.**
+> **I don't just train models. I build systems around them.**
 
 ---
 
-## 🧠 Core Expertise
+## 🚀 What I Build
 
-### 📊 Data Science
+🧠 **AI & Intelligent Systems**
+Machine learning models, AI assistants, intelligent automation, NLP applications, and AI-powered products.
 
-* Exploratory Data Analysis (EDA)
-* Data Cleaning & Preprocessing
-* Feature Engineering
-* Statistical Analysis
-* Data Visualization
-* Predictive Analytics
-* Data-driven Decision Making
+📊 **Machine Learning Systems**
+End-to-end ML pipelines covering data preparation, feature engineering, training, evaluation, and inference.
 
-### 🤖 Machine Learning
+⚙️ **ML Engineering & APIs**
+Production-oriented APIs with Python and FastAPI, model serving, testing, containerization, and cloud deployment.
 
-* Supervised & Unsupervised Learning
+🌐 **Full-Stack Applications**
+AI-enabled web applications using React, Next.js, Node.js, MongoDB, and modern web technologies.
+
+☁️ **Deployment & MLOps**
+Docker, cloud deployment, APIs, CI/CD, monitoring, and building systems that move beyond notebooks.
+
+---
+
+## 🛠️ Technical Stack
+
+### 🐍 Languages
+
+`Python` `SQL` `JavaScript` `TypeScript`
+
+### 🤖 AI / Machine Learning
+
+`Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter`
+
 * Classification & Regression
+* Feature Engineering
 * Model Selection & Evaluation
-* Feature Selection
 * Hyperparameter Optimization
 * Cross-Validation
-* Imbalanced Data Handling
-* Model Performance Analysis
-
-### 🧬 AI & Intelligent Systems
-
-* Artificial Intelligence
-* Predictive Modeling
-* Intelligent Automation
-* AI-powered Applications
-* Applied Machine Learning
-* Experimentation & Model Development
-
----
-
-## 🛠️ Technology Stack
-
-### 🐍 Languages & Data
-
-* **Python**
-* SQL
-* Pandas
-* NumPy
-
-### 🤖 Machine Learning
-
-* **Scikit-learn**
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-
-### ⚙️ Engineering & Development
-
-* Git & GitHub
-* REST APIs
-* Linux
-* VS Code
-* Streamlit
-
-### 🌐 Supporting Technologies
-
-* JavaScript
-* React
-* Next.js
-* Node.js
-* Firebase
-* MongoDB
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 Mobile Money Fraud Detection
-
-A machine learning system designed to identify potentially fraudulent mobile money transactions using transaction data and predictive modeling.
-
-**Focus:**
-Machine Learning • Classification • Feature Engineering • Fraud Detection • Model Evaluation • Python
-
----
-
-### 🛍️ Swoop — Social Commerce Platform
-
-Building a social-commerce platform designed around a more engaging way of discovering and purchasing products through **social and video-driven commerce**.
-
-**Focus:**
-AI • Data • Social Commerce • Product Engineering • Intelligent Recommendations
-
----
-
-## 🔬 Current Focus
-
-I'm currently deepening my expertise in:
-
-* Machine Learning Engineering
-* Data Science
-* Artificial Intelligence
+* Imbalanced Data
 * Predictive Analytics
-* Model Deployment
-* Data Engineering
-* MLOps
-* AI-powered Products
-* Scalable Intelligent Systems
+* NLP
+* AI Applications
 
+### ⚙️ Backend & Engineering
 
- 📈 Engineering Philosophy
+`FastAPI` `REST APIs` `Node.js` `Express.js` `Git` `Linux`
 
-I believe great technology is not just about building sophisticated models.
+### 🌐 Frontend
 
-It is about **understanding the problem, working with the right data, building reliable solutions, measuring results, and creating something people can actually use.**
+`React` `Next.js` `HTML` `CSS` `JavaScript`
+
+### 🗄️ Data & Infrastructure
+
+`MongoDB` `Firebase` `Docker` `Vercel` `Streamlit`
+
+---
+
+# ⭐ Featured Projects
+
+## 🛡️ Mobile Money Fraud Detection
+
+**Machine Learning • Fraud Detection • FastAPI • Deployment**
+
+An end-to-end machine learning system designed to detect potentially fraudulent mobile-money transactions.
+
+**Built around:**
+
+* Data preprocessing
+* Exploratory data analysis
+* Feature engineering
+* Classification models
+* Model evaluation
+* Prediction pipeline
+* FastAPI inference API
+* Production deployment
+
+🔗 **Repository:** [View Project](https://github.com/Richmond-24/mobile-money-fraud-detection)
+
+---
+
+## 🤖 RIRI.ai — AI Voice Assistant
+
+**AI • Voice • Multi-Agent Systems • MCP**
+
+A self-hosted AI assistant exploring voice interaction, intelligent agents, tool use, memory, and AI-powered automation.
+
+**Focus:**
+
+* Voice interaction
+* Speech-to-text / text-to-speech
+* AI agents
+* Tool calling
+* MCP
+* Intelligent automation
+* Web-based AI interface
+
+🔗 **Repository:** Add project link
+
+---
+
+## 📄 Resume Analyzer
+
+**AI • NLP • Full Stack • Machine Learning**
+
+An AI-powered application for analyzing resumes and extracting useful insights from candidate information.
+
+**Focus:**
+
+* NLP
+* Resume processing
+* AI-assisted analysis
+* Web application development
+* API integration
+* Deployment
+
+🔗 **Repository:** [View Project](https://github.com/Richmond-24/resume-analyzer)
+
+---
+
+## 🍔 ChopFresh
+
+**Full Stack • Food Commerce • MERN • Payments**
+
+A multi-restaurant food commerce and delivery platform connecting customers, restaurants, riders, and administrators through a shared platform.
+
+**Focus:**
+
+* Customer ordering
+* Restaurant management
+* Rider workflows
+* Authentication
+* Payments
+* REST APIs
+* MongoDB
+* Cloud deployment
+
+🔗 **Repository:** Add project link
+
+---
+
+# 📈 Engineering Journey
 
 ```text
-Problem
-   ↓
-Data
-   ↓
-Exploration
-   ↓
-Feature Engineering
-   ↓
-Model Development
-   ↓
-Evaluation
-   ↓
-Deployment
-   ↓
-Impact
+2024
+│
+├── Web Development
+│   ├── HTML
+│   ├── CSS
+│   └── JavaScript
+│
+↓
+2025
+│
+├── Python
+├── Data Science
+├── Machine Learning
+└── Data Analysis
+│
+↓
+2026
+│
+├── AI Engineering
+├── ML APIs
+├── Full-Stack AI
+├── Voice AI
+├── Multi-Agent Systems
+├── Blockchain / Web3
+└── Cloud Deployment
+│
+↓
+🎯 Building production-ready intelligent systems
 ```
 
+---
 
- 🎯 What I'm Building Toward
+# 🧪 How I Work
 
-My long-term goal is to become a highly skilled Machine Learning / AI Engineer capable of designing and deploying intelligent systems that solve meaningful problems at scale.
+I approach projects as engineering problems rather than isolated coding exercises.
 
-I am continuously learning, experimenting, building projects, and turning ideas into working technology.
+```text
+Real-World Problem
+        ↓
+Understand the Data
+        ↓
+Explore & Clean
+        ↓
+Feature Engineering
+        ↓
+Model / System Design
+        ↓
+Build
+        ↓
+Test & Evaluate
+        ↓
+API / Application
+        ↓
+Deploy
+        ↓
+Measure & Improve
+```
 
- 📬 Let's Connect
+My goal is to take projects **beyond notebooks and prototypes** and turn them into systems that people can actually interact with.
 
-* 💼 LinkedIn: [Richmond Afoblikame](https://linkedin.com/in/Richmond-Afoblikame)
-* 📧 Email: [afoblikamer@gmail.com](mailto:afoblikamer@gmail.com)
-* 💻 GitHub: [@Richmond-24](https://github.com/Richmond-24)
+---
 
-⚡ Build. Learn. Experiment. Deploy.
+# 🔬 Current Focus
 
-Data → Intelligence → Innovation → Impact
+I'm currently focusing on:
+
+* 🤖 AI Engineering
+* 🧠 Machine Learning Engineering
+* 🎙️ Voice AI
+* 🧩 Multi-Agent Systems
+* 🔗 Model Context Protocol (MCP)
+* 📊 Applied Machine Learning
+* ⚙️ MLOps
+* ☁️ Cloud Deployment
+* 🌐 Full-Stack AI Applications
+* 📈 Scalable Intelligent Systems
+
+---
+
+# 🏗️ What I'm Building Toward
+
+My long-term goal is to become an **elite AI / Machine Learning Engineer** capable of designing, building, and deploying intelligent systems that solve meaningful problems at scale.
+
+I'm especially interested in the space where:
+
+```text
+AI
+ +
+Data
+ +
+Software Engineering
+ +
+Product Thinking
+        ↓
+Real-World Impact
+```
+
+---
+
+# 📊 GitHub
+
+### 🔥 Building consistently. Learning continuously. Shipping publicly.
+
+I use GitHub to document my engineering journey through:
+
+* Open-source contributions
+* Machine learning experiments
+* AI applications
+* Full-stack products
+* APIs and backend systems
+* Deployment projects
+* Technical experiments
+
+**My objective isn't simply to collect repositories — it's to demonstrate progression, technical depth, and the ability to turn ideas into working systems.**
+
+---
+
+# 📬 Connect With Me
+
+💼 **LinkedIn:** [Richmond Afoblikame](https://linkedin.com/in/Richmond-Afoblikame)
+
+📧 **Email:** [afoblikamer@gmail.com](mailto:afoblikamer@gmail.com)
+
+💻 **GitHub:** [@Richmond-24](https://github.com/Richmond-24)
+
+---
+
+### ⚡ Build → Learn → Ship → Improve
+
+**Data → Intelligence → Software → Impact**
